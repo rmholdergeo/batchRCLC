@@ -1,3 +1,6 @@
+# This version has bugs that did not allow calculations with cordierite and biotite to
+# run properly. Please use the most recent version of the code instead. 
+
 # last edited by Robert Holder on 21 May 2021
 
 # ##### Background on the develompent of this code ######
